@@ -20,7 +20,7 @@ namespace FileSystemConsoleApp
             char[] charData = new char[200];
             try
             {
-                FileStream afile = new FileStream("d:\\test\\try.txt", FileMode.Open);
+                FileStream afile = new FileStream("e:\\test\\try.txt", FileMode.Open);
                 using (StreamReader sr = new StreamReader(afile)) { 
                     string line = sr.ReadLine();
 
