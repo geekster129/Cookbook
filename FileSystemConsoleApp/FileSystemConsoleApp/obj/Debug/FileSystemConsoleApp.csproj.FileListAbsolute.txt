@@ -1,0 +1,15 @@
+C:\Users\MUNYAU\AppData\Local\Temporary Projects\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.exe.config
+C:\Users\MUNYAU\AppData\Local\Temporary Projects\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.exe
+C:\Users\MUNYAU\AppData\Local\Temporary Projects\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.pdb
+C:\Users\MUNYAU\AppData\Local\Temporary Projects\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\MUNYAU\AppData\Local\Temporary Projects\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.exe
+C:\Users\MUNYAU\AppData\Local\Temporary Projects\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.pdb
+d:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.exe.config
+d:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.exe
+d:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.pdb
+d:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.exe
+d:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.pdb
+d:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.csprojResolveAssemblyReference.cache
+E:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\bin\Debug\FileSystemConsoleApp.exe.config
+E:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.exe
+E:\PersonalProjects\FileSystemConsoleApp\FileSystemConsoleApp\obj\Debug\FileSystemConsoleApp.pdb
