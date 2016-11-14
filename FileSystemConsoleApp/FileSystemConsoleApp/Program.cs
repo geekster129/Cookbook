@@ -16,6 +16,8 @@ namespace FileSystemConsoleApp
             FileInfo[] files= flList.GetFiles();
             Console.WriteLine(files[0].GetHashCode());
 
+            Console.WriteLine();
+
             byte[] byteData = new byte[200];
             char[] charData = new char[200];
             try
